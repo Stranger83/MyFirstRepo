@@ -1,3 +1,5 @@
+Updating with Git Bash...
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie neque vel metus lacinia pellentesque. Vivamus at dui vitae ipsum elementum malesuada. Nam condimentum at dolor vitae varius. Maecenas at purus placerat, convallis nunc at, ornare nisi. Suspendisse vel scelerisque orci. Nulla congue nulla ut velit vestibulum venenatis. Aenean luctus est in odio tempor viverra. Integer ut tincidunt eros.
 
 Nunc egestas, velit quis semper mollis, ipsum orci lacinia nisl, convallis lacinia nibh dolor in sapien. Nam rutrum varius volutpat. Suspendisse tempus metus vitae bibendum ornare. Sed vitae metus ac purus finibus ornare et at justo. Praesent lectus odio, vehicula accumsan ante vitae, mattis bibendum diam. In eu ex sit amet tortor hendrerit dapibus. Nunc at velit ipsum.
